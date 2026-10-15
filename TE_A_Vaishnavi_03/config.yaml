@@ -1,0 +1,15 @@
+data_path: data/skin_signs.csv
+
+id_column: ImageID
+
+exclude_flag_column: "Do not consider this image"
+
+target: Plaque
+
+test_size: 0.20
+
+seed: 42
+
+cv_folds: 5
+
+results_dir: results
