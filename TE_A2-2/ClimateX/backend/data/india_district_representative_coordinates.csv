@@ -1,0 +1,736 @@
+district,latitude,longitude,boundary_id,source_boundary_type,coordinate_method
+Ashoknagar,24.614385,77.875152,76128533B75548370501185,ADM2,polygon representative point; not district-wide average
+Raisen,23.265145,78.174833,76128533B57893545331548,ADM2,polygon representative point; not district-wide average
+Chhindwara,22.138885,78.81087,76128533B70646408240587,ADM2,polygon representative point; not district-wide average
+Betul,21.878745,77.878124,76128533B82559220423608,ADM2,polygon representative point; not district-wide average
+Hoshangabad,22.597865,77.928911,76128533B45314020251888,ADM2,polygon representative point; not district-wide average
+Sehore,23.112075,77.069023,76128533B39959897010345,ADM2,polygon representative point; not district-wide average
+Jabalpur,23.223455,79.986373,76128533B27615708126939,ADM2,polygon representative point; not district-wide average
+Narsimhapur,22.93194,79.089024,76128533B20683890392439,ADM2,polygon representative point; not district-wide average
+Panna,24.44731,80.148199,76128533B81607600692021,ADM2,polygon representative point; not district-wide average
+Ujjain,23.291325,75.626912,76128533B89286042589317,ADM2,polygon representative point; not district-wide average
+Rewa,24.74839,81.655595,76128533B31161316175613,ADM2,polygon representative point; not district-wide average
+Dindori,22.90405,80.865211,76128533B20502827346807,ADM2,polygon representative point; not district-wide average
+Balaghat,21.859955,80.312628,76128533B66134271591289,ADM2,polygon representative point; not district-wide average
+Barwani,21.751035,74.89417,76128533B668165975951,ADM2,polygon representative point; not district-wide average
+Satna,24.57705,80.81162,76128533B39705008578419,ADM2,polygon representative point; not district-wide average
+Chhatarpur,24.759345,79.681083,76128533B42922918567330,ADM2,polygon representative point; not district-wide average
+Indore,22.69803,75.815027,76128533B60360721573267,ADM2,polygon representative point; not district-wide average
+Ratlam,23.49914,74.956816,76128533B19341883513630,ADM2,polygon representative point; not district-wide average
+Harda,22.24046,77.10887,76128533B21179322085415,ADM2,polygon representative point; not district-wide average
+Sagar,23.80622,78.760678,76128533B30447764775083,ADM2,polygon representative point; not district-wide average
+Neemuch,24.61842,75.182117,76128533B77191913035963,ADM2,polygon representative point; not district-wide average
+Tikamgarh,24.854595,79.049733,76128533B1566053393466,ADM2,polygon representative point; not district-wide average
+Guna,24.498115,77.260083,76128533B79048012717121,ADM2,polygon representative point; not district-wide average
+Dewas,22.803665,76.296368,76128533B53549946596470,ADM2,polygon representative point; not district-wide average
+Mandsaur,24.26168,75.391353,76128533B25679991785711,ADM2,polygon representative point; not district-wide average
+Khargone (West Nimar),21.95601,75.75499,76128533B69481535535995,ADM2,polygon representative point; not district-wide average
+Sheopur,25.706185,76.883532,76128533B82240600990321,ADM2,polygon representative point; not district-wide average
+Morena,26.362025,77.854808,76128533B12343314564708,ADM2,polygon representative point; not district-wide average
+Bhind,26.348565,78.696227,76128533B57712033428660,ADM2,polygon representative point; not district-wide average
+Jhabua,22.88384,74.727904,76128533B67004768724668,ADM2,polygon representative point; not district-wide average
+Seoni,22.2725,79.721981,76128533B78482805703540,ADM2,polygon representative point; not district-wide average
+Khandwa (East Nimar),21.96126,76.532471,76128533B71271011331008,ADM2,polygon representative point; not district-wide average
+Umaria,23.637055,80.943608,76128533B4466876522971,ADM2,polygon representative point; not district-wide average
+Gwalior,26.02527,78.158606,76128533B90551733723251,ADM2,polygon representative point; not district-wide average
+Damoh,23.795595,79.543928,76128533B44250373880839,ADM2,polygon representative point; not district-wide average
+Dhar,22.5763,75.228369,76128533B42880544505675,ADM2,polygon representative point; not district-wide average
+Katni,23.71249,80.260915,76128533B16674973717653,ADM2,polygon representative point; not district-wide average
+Sidhi,24.20889,81.679905,76128533B53791014455989,ADM2,polygon representative point; not district-wide average
+Alirajpur,22.28509,74.357735,76128533B35167844027544,ADM2,polygon representative point; not district-wide average
+Singrauli,24.239285,82.330654,76128533B50014751336341,ADM2,polygon representative point; not district-wide average
+Bhopal,23.481505,77.395103,76128533B22439249004073,ADM2,polygon representative point; not district-wide average
+Rajgarh,23.867735,76.776774,76128533B28521131010314,ADM2,polygon representative point; not district-wide average
+Mandla,22.6847,80.584642,76128533B79087524886024,ADM2,polygon representative point; not district-wide average
+Shajapur,23.409625,76.607003,76128533B30477486088156,ADM2,polygon representative point; not district-wide average
+Shivpuri,25.372025,77.798447,76128533B66335428496945,ADM2,polygon representative point; not district-wide average
+Datia,25.91721,78.667026,76128533B80958502091898,ADM2,polygon representative point; not district-wide average
+Burhanpur,21.32876,76.37417,76128533B37096001761063,ADM2,polygon representative point; not district-wide average
+Anuppur,23.0322,81.760775,76128533B25468964623139,ADM2,polygon representative point; not district-wide average
+Shahdol,23.63852,81.419006,76128533B79303776608295,ADM2,polygon representative point; not district-wide average
+Vidisha,23.843785,77.83922,76128533B64834018186186,ADM2,polygon representative point; not district-wide average
+Una,31.5843,76.237377,76128533B75262864015847,ADM2,polygon representative point; not district-wide average
+Solan,31.05669,76.85237,76128533B58569599021232,ADM2,polygon representative point; not district-wide average
+Sirmaur,30.69942,77.448383,76128533B11802210119774,ADM2,polygon representative point; not district-wide average
+Kinnaur,31.58984,78.332785,76128533B50011981829203,ADM2,polygon representative point; not district-wide average
+Kullu,31.87859,77.453981,76128533B97425778881707,ADM2,polygon representative point; not district-wide average
+Chamba,32.693695,76.169865,76128533B58537895532859,ADM2,polygon representative point; not district-wide average
+Shimla,31.237,77.717262,76128533B77537928419507,ADM2,polygon representative point; not district-wide average
+Bilaspur,31.403855,76.641071,76128533B85695392289827,ADM2,polygon representative point; not district-wide average
+Kangra,32.078415,76.270459,76128533B13697452453823,ADM2,polygon representative point; not district-wide average
+Lahul & Spiti,32.499865,77.584312,76128533B75359793481950,ADM2,polygon representative point; not district-wide average
+Mandi,31.65118,77.011342,76128533B23735146933631,ADM2,polygon representative point; not district-wide average
+Hamirpur,31.656975,76.540168,76128533B35956162202704,ADM2,polygon representative point; not district-wide average
+DATA NOT AVAILABLE,34.923915,75.396087,76128533B2782141712775,ADM2,polygon representative point; not district-wide average
+Anantnag,33.797545,75.281241,76128533B6393836306469,ADM2,polygon representative point; not district-wide average
+Baramula,34.11357,74.323964,76128533B15567489974292,ADM2,polygon representative point; not district-wide average
+Kulgam,33.62337,75.015774,76128533B87327155385261,ADM2,polygon representative point; not district-wide average
+Shupiyan,33.6983,74.812651,76128533B37825396764028,ADM2,polygon representative point; not district-wide average
+Reasi,33.20302,74.907489,76128533B50784044604286,ADM2,polygon representative point; not district-wide average
+Rajouri,33.2381,74.332376,76128533B45655211862788,ADM2,polygon representative point; not district-wide average
+Jammu,32.75823,74.777263,76128533B3371867518692,ADM2,polygon representative point; not district-wide average
+Leh(Ladakh),34.16565,78.087976,76128533B57183548666997,ADM2,polygon representative point; not district-wide average
+Srinagar,34.07833,74.934601,76128533B32249045995424,ADM2,polygon representative point; not district-wide average
+Doda,33.134545,75.621113,76128533B48708628358161,ADM2,polygon representative point; not district-wide average
+Pulwama,33.91331,75.056358,76128533B74958462315105,ADM2,polygon representative point; not district-wide average
+Ramban,33.317045,75.248492,76128533B92985585225784,ADM2,polygon representative point; not district-wide average
+Ganderbal,34.271715,75.069727,76128533B20504715877560,ADM2,polygon representative point; not district-wide average
+Udhampur,32.91371,75.314088,76128533B31127900859310,ADM2,polygon representative point; not district-wide average
+Badgam,33.861565,74.673516,76128533B88214376170788,ADM2,polygon representative point; not district-wide average
+Punch,33.65974,74.277348,76128533B32998994032811,ADM2,polygon representative point; not district-wide average
+Kupwara,34.48803,74.193207,76128533B68195849750399,ADM2,polygon representative point; not district-wide average
+Samba,32.62539,75.090933,76128533B49429513424897,ADM2,polygon representative point; not district-wide average
+Bandipore,34.448955,74.907145,76128533B41744580856133,ADM2,polygon representative point; not district-wide average
+Kathua,32.586265,75.61931,76128533B79652855441225,ADM2,polygon representative point; not district-wide average
+Kargil,33.814275,76.438039,76128533B47664895117076,ADM2,polygon representative point; not district-wide average
+Kishtwar,33.61938,75.885704,76128533B20458430922604,ADM2,polygon representative point; not district-wide average
+Daman,20.40395,72.866058,76128533B15180319517641,ADM2,polygon representative point; not district-wide average
+Diu,20.722215,70.930841,76128533B56857410767766,ADM2,polygon representative point; not district-wide average
+Bhavnagar,21.563875,71.908671,76128533B93450974047240,ADM2,polygon representative point; not district-wide average
+Ahmadabad,22.727035,72.310959,76128533B93113981386565,ADM2,polygon representative point; not district-wide average
+Chhota Udaipur,22.22024,73.779681,76128533B69417260894674,ADM2,polygon representative point; not district-wide average
+Batod,22.045875,71.675679,76128533B48885555323596,ADM2,polygon representative point; not district-wide average
+Vadodara,22.314925,73.30588,76128533B33151011563565,ADM2,polygon representative point; not district-wide average
+Aravali,23.48368,73.398714,76128533B62153454383166,ADM2,polygon representative point; not district-wide average
+Sabar Kantha,23.86674,73.01357,76128533B35129325000613,ADM2,polygon representative point; not district-wide average
+Banas Kantha,24.270855,72.172351,76128533B52902360321344,ADM2,polygon representative point; not district-wide average
+Surendranagar,22.82722,71.60838,76128533B7851306475665,ADM2,polygon representative point; not district-wide average
+Anand,22.486535,72.759476,76128533B69438085511257,ADM2,polygon representative point; not district-wide average
+Narmada,21.737295,73.627586,76128533B46866455993508,ADM2,polygon representative point; not district-wide average
+Amreli,21.422035,71.280385,76128533B43737470294384,ADM2,polygon representative point; not district-wide average
+Dohad,22.919525,74.13789,76128533B70576899889534,ADM2,polygon representative point; not district-wide average
+Rajkot,22.064025,71.027403,76128533B74992405432705,ADM2,polygon representative point; not district-wide average
+Kachchh,23.71018,69.822271,76128533B91881382098572,ADM2,polygon representative point; not district-wide average
+The Dangs,20.78719,73.711064,76128533B16271917438029,ADM2,polygon representative point; not district-wide average
+Mahesana,23.567055,72.36228,76128533B81661995166840,ADM2,polygon representative point; not district-wide average
+Patan,23.77129,71.785703,76128533B42839853072341,ADM2,polygon representative point; not district-wide average
+Bharuch,21.81122,72.948464,76128533B63599385776584,ADM2,polygon representative point; not district-wide average
+Gir Somnath,20.98849,70.689127,76128533B45037556977273,ADM2,polygon representative point; not district-wide average
+Junagadh,21.340255,70.420223,76128533B40923846274136,ADM2,polygon representative point; not district-wide average
+Devbhumi Dwarka,22.13636,69.428954,76128533B74381554567803,ADM2,polygon representative point; not district-wide average
+Navsari,20.82601,73.035101,76128533B6397758882978,ADM2,polygon representative point; not district-wide average
+Surat,21.190545,72.950518,76128533B97372652494648,ADM2,polygon representative point; not district-wide average
+Jamnagar,22.31335,70.102391,76128533B35205406647638,ADM2,polygon representative point; not district-wide average
+Tapi,21.190545,73.556755,76128533B12519626815499,ADM2,polygon representative point; not district-wide average
+Porbandar,21.60249,69.85434,76128533B84417945851362,ADM2,polygon representative point; not district-wide average
+Valsad,20.43286,73.164769,76128533B60261306484775,ADM2,polygon representative point; not district-wide average
+Gandhinagar,23.28035,72.667331,76128533B7606365706860,ADM2,polygon representative point; not district-wide average
+Mahisagar,23.189695,73.657781,76128533B49615943426842,ADM2,polygon representative point; not district-wide average
+Morbi,22.79653,70.888617,76128533B2080752988715,ADM2,polygon representative point; not district-wide average
+Panch Mahals,22.696295,73.607003,76128533B16476001647323,ADM2,polygon representative point; not district-wide average
+Kheda,22.85268,72.998954,76128533B39046535416628,ADM2,polygon representative point; not district-wide average
+Dadra & Nagar Haveli,20.206745,73.009272,76128533B43252171579976,ADM2,polygon representative point; not district-wide average
+Prakasam,15.642165,79.515192,76128533B95075104846315,ADM2,polygon representative point; not district-wide average
+Krishna,16.43117,81.061298,76128533B4481773749911,ADM2,polygon representative point; not district-wide average
+East Godavari,17.16168,82.070002,76128533B29138015770556,ADM2,polygon representative point; not district-wide average
+Visakhapatnam,17.900415,82.566221,76128533B71485440235524,ADM2,polygon representative point; not district-wide average
+Sri Potti Sriramulu Nellore,14.29486,79.780744,76128533B55622097933343,ADM2,polygon representative point; not district-wide average
+Chittoor,13.3369,78.921872,76128533B22471914548132,ADM2,polygon representative point; not district-wide average
+Srikakulam,18.62695,83.972824,76128533B59405966069108,ADM2,polygon representative point; not district-wide average
+Kurnool,15.53821,77.906425,76128533B28294794137747,ADM2,polygon representative point; not district-wide average
+Guntur,16.269515,80.188964,76128533B72541188260561,ADM2,polygon representative point; not district-wide average
+Vizianagaram,18.49537,83.311787,76128533B36164606132718,ADM2,polygon representative point; not district-wide average
+Anantapur,14.45798,77.510064,76128533B52664671961643,ADM2,polygon representative point; not district-wide average
+West Godavari,16.90565,81.370268,76128533B19792346411952,ADM2,polygon representative point; not district-wide average
+Kadapa(YSR),14.481225,78.659615,76128533B72109128179340,ADM2,polygon representative point; not district-wide average
+Jamtara,23.989185,86.929846,76128533B17261532861377,ADM2,polygon representative point; not district-wide average
+Saraikela-Kharsawan,22.818845,85.917766,76128533B50275440439236,ADM2,polygon representative point; not district-wide average
+Simdega,22.57097,84.545815,76128533B15601995412161,ADM2,polygon representative point; not district-wide average
+Latehar,23.668125,84.260582,76128533B35143550659673,ADM2,polygon representative point; not district-wide average
+Khunti,22.92455,85.256225,76128533B27414563922025,ADM2,polygon representative point; not district-wide average
+Pashchimi Singhbhum,22.428365,85.5322,76128533B60893804631193,ADM2,polygon representative point; not district-wide average
+Hazaribagh,23.99743,85.539333,76128533B1222571856670,ADM2,polygon representative point; not district-wide average
+Chatra,24.10405,84.86067,76128533B44632955875385,ADM2,polygon representative point; not district-wide average
+Purbi Singhbhum,22.615135,86.385181,76128533B18931932305748,ADM2,polygon representative point; not district-wide average
+Kodarma,24.539555,85.673387,76128533B43180268042348,ADM2,polygon representative point; not district-wide average
+Giridih,24.33484,86.16436,76128533B75529869544465,ADM2,polygon representative point; not district-wide average
+Lohardaga,23.47766,84.691041,76128533B35439951183692,ADM2,polygon representative point; not district-wide average
+Sahibganj,25.025485,87.695602,76128533B49805675626253,ADM2,polygon representative point; not district-wide average
+Godda,24.86699,87.31063,76128533B58697472287618,ADM2,polygon representative point; not district-wide average
+Palamu,24.214175,84.178335,76128533B6050540865870,ADM2,polygon representative point; not district-wide average
+Dhanbad,23.840865,86.466405,76128533B94847743365739,ADM2,polygon representative point; not district-wide average
+Dumka,24.312385,87.310931,76128533B18802630191461,ADM2,polygon representative point; not district-wide average
+Bokaro,23.695595,85.983394,76128533B30016122738302,ADM2,polygon representative point; not district-wide average
+Deoghar,24.33297,86.713207,76128533B90068096507942,ADM2,polygon representative point; not district-wide average
+Gumla,23.158715,84.464268,76128533B80916614857890,ADM2,polygon representative point; not district-wide average
+Ramgarh,23.70057,85.513534,76128533B79263581040575,ADM2,polygon representative point; not district-wide average
+Garhwa,24.05028,83.652909,76128533B12294379827032,ADM2,polygon representative point; not district-wide average
+Ranchi,23.29962,85.387302,76128533B71439508543442,ADM2,polygon representative point; not district-wide average
+Pakur,24.532295,87.596333,76128533B45381195840581,ADM2,polygon representative point; not district-wide average
+Arwal,25.19557,84.687788,76128533B45623818137574,ADM2,polygon representative point; not district-wide average
+Bhagalpur,25.27922,87.123621,76128533B83462627230182,ADM2,polygon representative point; not district-wide average
+Purnia,25.786925,87.418382,76128533B32499449492865,ADM2,polygon representative point; not district-wide average
+Madhepura,25.771095,86.931971,76128533B29293163114565,ADM2,polygon representative point; not district-wide average
+Kishanganj,26.25209,87.908075,76128533B65773363805797,ADM2,polygon representative point; not district-wide average
+Gaya,24.68977,85.014622,76128533B91871300208785,ADM2,polygon representative point; not district-wide average
+Banka,24.833485,86.81786,76128533B54517225652088,ADM2,polygon representative point; not district-wide average
+Aurangabad,24.81452,84.428165,76128533B21485639457044,ADM2,polygon representative point; not district-wide average
+Nawada,24.83322,85.652907,76128533B36625800127334,ADM2,polygon representative point; not district-wide average
+Araria,26.232945,87.37996,76128533B4745348385341,ADM2,polygon representative point; not district-wide average
+Pashchim Champaran,27.04336,84.348559,76128533B17762399278073,ADM2,polygon representative point; not district-wide average
+Muzaffarpur,26.156565,85.315924,76128533B88481188307630,ADM2,polygon representative point; not district-wide average
+Saran,25.912975,84.779109,76128533B19903856317609,ADM2,polygon representative point; not district-wide average
+Sheikhpura,25.115405,85.863481,76128533B29672216830072,ADM2,polygon representative point; not district-wide average
+Jehanabad,25.15621,85.026565,76128533B24101991435637,ADM2,polygon representative point; not district-wide average
+Saharsa,25.826665,86.609365,76128533B24755983727265,ADM2,polygon representative point; not district-wide average
+Gopalganj,26.410075,84.361009,76128533B93214480696409,ADM2,polygon representative point; not district-wide average
+Vaishali,25.763505,85.391742,76128533B91445917652173,ADM2,polygon representative point; not district-wide average
+Siwan,26.12475,84.366269,76128533B14033116794334,ADM2,polygon representative point; not district-wide average
+Sheohar,26.48511,85.276962,76128533B74961596993088,ADM2,polygon representative point; not district-wide average
+Buxar,25.492745,84.096475,76128533B12244320360965,ADM2,polygon representative point; not district-wide average
+Madhubani,26.35033,86.229622,76128533B90384580518633,ADM2,polygon representative point; not district-wide average
+Supaul,26.28999,86.798867,76128533B62794162648247,ADM2,polygon representative point; not district-wide average
+Patna,25.48376,85.183143,76128533B60721316645780,ADM2,polygon representative point; not district-wide average
+Bhojpur,25.456845,84.56061,76128533B66426066081507,ADM2,polygon representative point; not district-wide average
+Darbhanga,26.08304,86.025616,76128533B12694285477701,ADM2,polygon representative point; not district-wide average
+Samastipur,25.770055,85.862984,76128533B66790149147330,ADM2,polygon representative point; not district-wide average
+Kaimur (Bhabua),24.974945,83.578088,76128533B78904410352326,ADM2,polygon representative point; not district-wide average
+Rohtas,24.939895,84.020545,76128533B33458049385696,ADM2,polygon representative point; not district-wide average
+Khagaria,25.48723,86.6801,76128533B78970756356546,ADM2,polygon representative point; not district-wide average
+Munger,25.21053,86.519599,76128533B40868676647207,ADM2,polygon representative point; not district-wide average
+Sitamarhi,26.575585,85.598749,76128533B21922686388534,ADM2,polygon representative point; not district-wide average
+Purba Champaran,26.620215,84.897247,76128533B49017555803526,ADM2,polygon representative point; not district-wide average
+Lakhisarai,25.143055,86.157386,76128533B98985252129882,ADM2,polygon representative point; not district-wide average
+Jamui,24.75309,86.268718,76128533B16781044866906,ADM2,polygon representative point; not district-wide average
+Begusarai,25.50119,86.070979,76128533B5855800361016,ADM2,polygon representative point; not district-wide average
+Nalanda,25.209185,85.450124,76128533B51363853289247,ADM2,polygon representative point; not district-wide average
+Katihar,25.557225,87.649133,76128533B27432148084533,ADM2,polygon representative point; not district-wide average
+Gurgaon,28.37289,76.943509,76128533B67580812983244,ADM2,polygon representative point; not district-wide average
+Yamunanagar,30.21575,77.326597,76128533B23956636471502,ADM2,polygon representative point; not district-wide average
+Palwal,28.061655,77.324029,76128533B71088079535368,ADM2,polygon representative point; not district-wide average
+Panchkula,30.68934,76.995436,76128533B58876508630362,ADM2,polygon representative point; not district-wide average
+Mewat,27.992915,77.04901,76128533B80016894369263,ADM2,polygon representative point; not district-wide average
+Jhajjar,28.61057,76.670677,76128533B70554191137208,ADM2,polygon representative point; not district-wide average
+Bhiwani,28.732085,75.967291,76128533B42646400584570,ADM2,polygon representative point; not district-wide average
+Kaithal,29.85622,76.47007,76128533B64596101949699,ADM2,polygon representative point; not district-wide average
+Sonipat,29.051895,76.936874,76128533B69536039643660,ADM2,polygon representative point; not district-wide average
+Karnal,29.716635,76.907799,76128533B6330405394721,ADM2,polygon representative point; not district-wide average
+Kurukshetra,30.060545,76.763946,76128533B94710820075529,ADM2,polygon representative point; not district-wide average
+Jind,29.4485,76.374028,76128533B45106682783501,ADM2,polygon representative point; not district-wide average
+Panipat,29.33786,76.903239,76128533B86048662040782,ADM2,polygon representative point; not district-wide average
+Mahendragarh,28.132985,76.169395,76128533B64161607349718,ADM2,polygon representative point; not district-wide average
+Fatehabad,29.535655,75.575515,76128533B10727492375508,ADM2,polygon representative point; not district-wide average
+Faridabad,28.356805,77.327293,76128533B40638696154891,ADM2,polygon representative point; not district-wide average
+Sirsa,29.606705,74.904202,76128533B84837672903805,ADM2,polygon representative point; not district-wide average
+Hisar,29.239285,75.818542,76128533B22732185131019,ADM2,polygon representative point; not district-wide average
+Rewari,28.218035,76.581798,76128533B22722327711505,ADM2,polygon representative point; not district-wide average
+Rohtak,28.88973,76.556798,76128533B12244045944458,ADM2,polygon representative point; not district-wide average
+Ambala,30.343485,76.956562,76128533B95049353851516,ADM2,polygon representative point; not district-wide average
+Chandigarh,30.726365,76.788064,76128533B56050914259601,ADM2,polygon representative point; not district-wide average
+North Goa,15.530525,74.02016,76128533B1711704044407,ADM2,polygon representative point; not district-wide average
+South Goa,15.19274,74.124659,76128533B63117839967753,ADM2,polygon representative point; not district-wide average
+North  & Middle Andaman,12.188455,92.811445,76128533B28397307540277,ADM2,polygon representative point; not district-wide average
+South Andaman,10.70435,92.488055,76128533B22587307937261,ADM2,polygon representative point; not district-wide average
+Nicobars,6.996925,93.81041,76128533B33103505211400,ADM2,polygon representative point; not district-wide average
+Lohit,27.94757,96.286724,76128533B6828791241172,ADM2,polygon representative point; not district-wide average
+West Siang,28.279455,94.660042,76128533B95764075909869,ADM2,polygon representative point; not district-wide average
+Upper Subansiri,28.23764,94.11065,76128533B84689409020934,ADM2,polygon representative point; not district-wide average
+Changlang,27.28565,96.071848,76128533B9558749744242,ADM2,polygon representative point; not district-wide average
+Longding,26.8867,95.305194,76128533B22715430000002,ADM2,polygon representative point; not district-wide average
+Lower Subansiri,27.564186,93.782401,76128533B90913053845537,ADM2,polygon representative point; not district-wide average
+East Kameng,27.553735,92.982102,76128533B76129461078086,ADM2,polygon representative point; not district-wide average
+Upper Siang,28.739285,95.061761,76128533B76058958071350,ADM2,polygon representative point; not district-wide average
+Anjaw,28.033115,96.841984,76128533B55878637000592,ADM2,polygon representative point; not district-wide average
+Siang,28.300215,95.018277,76128533B95910687666425,ADM2,polygon representative point; not district-wide average
+Dibang Valley,28.867935,95.93867,76128533B11651252780045,ADM2,polygon representative point; not district-wide average
+Kurung Kumey,27.982778,93.167127,76128533B31405919461443,ADM2,polygon representative point; not district-wide average
+West Kameng,27.324165,92.448632,76128533B61235952222315,ADM2,polygon representative point; not district-wide average
+Lower Dibang Valley,28.224265,95.899544,76128533B38784530776316,ADM2,polygon representative point; not district-wide average
+Tawang,27.6551,91.951208,76128533B18668117085772,ADM2,polygon representative point; not district-wide average
+Papum Pare,27.292395,93.613371,76128533B17472905712757,ADM2,polygon representative point; not district-wide average
+Goalpara,26.06291,90.532028,76128533B91472319248603,ADM2,polygon representative point; not district-wide average
+Nalbari,26.362465,91.396474,76128533B40995085026980,ADM2,polygon representative point; not district-wide average
+Dhubri,26.160715,90.088254,76128533B25835998628545,ADM2,polygon representative point; not district-wide average
+Sivasagar,26.97953,94.607331,76128533B21722277889516,ADM2,polygon representative point; not district-wide average
+Karimganj,24.582235,92.37317,76128533B23092176497025,ADM2,polygon representative point; not district-wide average
+Tinsukia,27.59799,95.560252,76128533B8920527783032,ADM2,polygon representative point; not district-wide average
+Hailakandi,24.50609,92.630197,76128533B16749627383755,ADM2,polygon representative point; not district-wide average
+Chirang,26.654645,90.628894,76128533B56012535339305,ADM2,polygon representative point; not district-wide average
+Dhemaji,27.54386,94.554389,76128533B50650763703739,ADM2,polygon representative point; not district-wide average
+Morigaon,26.27267,92.286302,76128533B17968019348564,ADM2,polygon representative point; not district-wide average
+Karbi Anglong East,26.061175,93.455386,76128533B38548995376745,ADM2,polygon representative point; not district-wide average
+Lakhimpur,27.150017,94.163569,76128533B85627242103654,ADM2,polygon representative point; not district-wide average
+Bongaigaon,26.36704,90.640595,76128533B46490409917345,ADM2,polygon representative point; not district-wide average
+Baksa,26.638525,91.454527,76128533B8221925175605,ADM2,polygon representative point; not district-wide average
+Nagaon,26.32944,92.744141,76128533B13437137070957,ADM2,polygon representative point; not district-wide average
+Cachar,24.759125,92.882533,76128533B26964150246712,ADM2,polygon representative point; not district-wide average
+Darrang,26.432915,92.014026,76128533B96719327593873,ADM2,polygon representative point; not district-wide average
+Kamrup,26.15,91.234329,76128533B66682530790248,ADM2,polygon representative point; not district-wide average
+Dibrugarh,27.373775,95.044922,76128533B57825981663822,ADM2,polygon representative point; not district-wide average
+Barpeta,26.356565,91.035768,76128533B47772746709007,ADM2,polygon representative point; not district-wide average
+Sonitpur,26.76611,92.712347,76128533B41005496708834,ADM2,polygon representative point; not district-wide average
+Udalguri,26.70467,92.038417,76128533B20307518801538,ADM2,polygon representative point; not district-wide average
+Golaghat,26.2979,93.994279,76128533B55519385298440,ADM2,polygon representative point; not district-wide average
+Kamrup Metropolitan,26.073505,92.020154,76128533B38230828972906,ADM2,polygon representative point; not district-wide average
+Dima Hasao,25.39598,93.080939,76128533B66125202864966,ADM2,polygon representative point; not district-wide average
+Kokrajhar,26.52715,90.138853,76128533B91480770176940,ADM2,polygon representative point; not district-wide average
+Jorhat,26.65246,94.272481,76128533B334793883930,ADM2,polygon representative point; not district-wide average
+Yanam,16.6746,82.274235,76128533B83105693975079,ADM2,polygon representative point; not district-wide average
+Karaikal,10.91524,79.830673,76128533B62624361588317,ADM2,polygon representative point; not district-wide average
+Puducherry,11.923595,79.781739,76128533B29873478326363,ADM2,polygon representative point; not district-wide average
+Mahe,11.70106,75.53653,76128533B41246169049488,ADM2,polygon representative point; not district-wide average
+Lunglei,22.947315,92.63101,76128533B97836280165555,ADM2,polygon representative point; not district-wide average
+Kolasib,24.17243,92.707738,76128533B38141181853016,ADM2,polygon representative point; not district-wide average
+Lawngtlai,22.374,92.728766,76128533B70210707786180,ADM2,polygon representative point; not district-wide average
+Saiha,22.29051,93.008222,76128533B35468154415031,ADM2,polygon representative point; not district-wide average
+Champhai,23.19588,93.259139,76128533B39039541714099,ADM2,polygon representative point; not district-wide average
+Serchhip,23.27511,92.832743,76128533B49456368048033,ADM2,polygon representative point; not district-wide average
+Aizawl,23.862691,92.885654,76128533B34203923268864,ADM2,polygon representative point; not district-wide average
+Mamit,23.754695,92.435677,76128533B77336742344288,ADM2,polygon representative point; not district-wide average
+Chandel,24.161184,94.004648,76128533B59855617266389,ADM2,polygon representative point; not district-wide average
+Tamenglong,25.06215,93.544138,76128533B11421856387892,ADM2,polygon representative point; not district-wide average
+Ukhrul,25.308945,94.475839,76128533B44190672061408,ADM2,polygon representative point; not district-wide average
+Bishnupur,24.51704,93.792804,76128533B14403163214152,ADM2,polygon representative point; not district-wide average
+Churachandpur,24.284946,93.683261,76128533B50969226102213,ADM2,polygon representative point; not district-wide average
+Thoubal,24.62904,94.005421,76128533B44197302080139,ADM2,polygon representative point; not district-wide average
+Imphal East,24.86805,94.018784,76128533B30779259886340,ADM2,polygon representative point; not district-wide average
+Kangpokpi,25.006215,93.83747,76128533B56326354019534,ADM2,polygon representative point; not district-wide average
+Imphal West,24.762085,93.857706,76128533B99807650893733,ADM2,polygon representative point; not district-wide average
+Mon,26.653145,95.010326,76128533B23611090346849,ADM2,polygon representative point; not district-wide average
+Tuensang,26.169745,94.922293,76128533B82052450002431,ADM2,polygon representative point; not district-wide average
+Mokokchung,26.491525,94.532921,76128533B82793215586362,ADM2,polygon representative point; not district-wide average
+Longleng,26.60209,94.81748,76128533B66411945144923,ADM2,polygon representative point; not district-wide average
+Phek,25.64527,94.381211,76128533B13733639953372,ADM2,polygon representative point; not district-wide average
+Kohima,25.772725,94.13285,76128533B53671786151110,ADM2,polygon representative point; not district-wide average
+Wokha,26.275135,94.219682,76128533B67210465807627,ADM2,polygon representative point; not district-wide average
+Zunheboto,26.0202,94.516881,76128533B58058152513003,ADM2,polygon representative point; not district-wide average
+Kiphire,25.8015,94.867179,76128533B49100243723360,ADM2,polygon representative point; not district-wide average
+Dimapur,25.82995,93.905609,76128533B85747247216737,ADM2,polygon representative point; not district-wide average
+Peren,25.448115,93.6167,76128533B2970909480221,ADM2,polygon representative point; not district-wide average
+Khowai,23.956815,91.646805,76128533B67044589012853,ADM2,polygon representative point; not district-wide average
+Sipahijula,23.530485,91.304514,76128533B43965372582859,ADM2,polygon representative point; not district-wide average
+West Tripura,23.91858,91.391266,76128533B97225684979956,ADM2,polygon representative point; not district-wide average
+Dhalai,23.835965,91.977545,76128533B42970684683247,ADM2,polygon representative point; not district-wide average
+Unokoti,24.190965,92.042524,76128533B4720703924950,ADM2,polygon representative point; not district-wide average
+North Tripura,24.097345,92.23838,76128533B77134386587213,ADM2,polygon representative point; not district-wide average
+Gomati,23.42637,91.638276,76128533B94126463611805,ADM2,polygon representative point; not district-wide average
+South Tripura,23.181715,91.641298,76128533B67748245133340,ADM2,polygon representative point; not district-wide average
+South Garo Hills,25.343475,90.574454,76128533B79750857313751,ADM2,polygon representative point; not district-wide average
+Ribhoi,25.862091,91.840502,76128533B70570208114113,ADM2,polygon representative point; not district-wide average
+East Khasi Hills,25.40615,91.845444,76128533B49246671500878,ADM2,polygon representative point; not district-wide average
+West Khasi Hills,25.574275,91.275371,76128533B42153891534463,ADM2,polygon representative point; not district-wide average
+South West Khasi Hills,25.319525,91.328928,76128533B27102120636500,ADM2,polygon representative point; not district-wide average
+West Garo Hills,25.604405,90.220125,76128533B96195300293897,ADM2,polygon representative point; not district-wide average
+South West Garo Hills,25.43895,89.948316,76128533B52906466328910,ADM2,polygon representative point; not district-wide average
+East Jaintia Hills,25.274485,92.490102,76128533B70185077694103,ADM2,polygon representative point; not district-wide average
+West Jaintia Hills,25.43439,92.192332,76128533B84622469201834,ADM2,polygon representative point; not district-wide average
+East Garo Hills,25.635295,90.669654,76128533B40535123096970,ADM2,polygon representative point; not district-wide average
+North Garo Hills,25.86812,90.717585,76128533B35759455556328,ADM2,polygon representative point; not district-wide average
+Bemetra,21.67711,81.431969,76128533B73736605657091,ADM2,polygon representative point; not district-wide average
+Bastar,19.120405,81.829236,76128533B47840093719460,ADM2,polygon representative point; not district-wide average
+Mungeli,22.206985,81.626534,76128533B17292264941997,ADM2,polygon representative point; not district-wide average
+Bilaspur,22.169395,82.094774,76128533B81964529079574,ADM2,polygon representative point; not district-wide average
+Gariaband,20.44249,82.245451,76128533B93063337202124,ADM2,polygon representative point; not district-wide average
+Kabeerdham,22.113115,81.249823,76128533B48077510234542,ADM2,polygon representative point; not district-wide average
+Sukma,18.281285,81.325957,76128533B53316015271969,ADM2,polygon representative point; not district-wide average
+Uttar Bastar Kanker,20.120835,80.982332,76128533B26755490628656,ADM2,polygon representative point; not district-wide average
+Dakshin Bastar Dantewada,18.82022,81.404817,76128533B14292125820380,ADM2,polygon representative point; not district-wide average
+Surguja,22.94318,83.049132,76128533B52487813780503,ADM2,polygon representative point; not district-wide average
+Balrampur,23.627325,83.483348,76128533B14598081584747,ADM2,polygon representative point; not district-wide average
+Kondagaon,19.71116,81.755832,76128533B12144400448811,ADM2,polygon representative point; not district-wide average
+Narayanpur,19.58899,81.107394,76128533B89979485471283,ADM2,polygon representative point; not district-wide average
+Durg,21.18615,81.410299,76128533B15993411864574,ADM2,polygon representative point; not district-wide average
+Surajpur,23.43039,83.013907,76128533B46979893461805,ADM2,polygon representative point; not district-wide average
+Bijapur,18.772225,80.745249,76128533B66145460152555,ADM2,polygon representative point; not district-wide average
+Raipur,21.280775,81.816089,76128533B57691508962219,ADM2,polygon representative point; not district-wide average
+Baloda Bazar,21.528595,82.375474,76128533B54306414631532,ADM2,polygon representative point; not district-wide average
+Balod,20.72856,81.147133,76128533B90169585758701,ADM2,polygon representative point; not district-wide average
+Koriya,23.430935,82.319549,76128533B1621599562140,ADM2,polygon representative point; not district-wide average
+Dhamtari,20.535,81.717095,76128533B71714250401862,ADM2,polygon representative point; not district-wide average
+Korba,22.51722,82.63623,76128533B89438858641946,ADM2,polygon representative point; not district-wide average
+Raigarh,22.068025,83.310587,76128533B67018657649043,ADM2,polygon representative point; not district-wide average
+Jashpur,22.769845,83.974283,76128533B53609934827566,ADM2,polygon representative point; not district-wide average
+Mahasamund,21.18775,82.616551,76128533B9759621355294,ADM2,polygon representative point; not district-wide average
+Janjgir-Champa,21.943285,82.703079,76128533B6310527412636,ADM2,polygon representative point; not district-wide average
+Rajnandgaon,20.971925,80.697717,76128533B25020556592153,ADM2,polygon representative point; not district-wide average
+Nainital,29.292815,79.43434,76128533B50374927918374,ADM2,polygon representative point; not district-wide average
+Dehradun,30.47519,77.861371,76128533B67005208112053,ADM2,polygon representative point; not district-wide average
+Almora,29.69906,79.43548,76128533B74917207853309,ADM2,polygon representative point; not district-wide average
+Champawat,29.232815,80.102213,76128533B2761749808956,ADM2,polygon representative point; not district-wide average
+Uttarkashi,30.9583,78.633221,76128533B81694682724865,ADM2,polygon representative point; not district-wide average
+Garhwal,29.844145,78.709612,76128533B46926146855114,ADM2,polygon representative point; not district-wide average
+Hardwar,29.88871,78.007051,76128533B87833640460819,ADM2,polygon representative point; not district-wide average
+Rudraprayag,30.486305,79.030805,76128533B46038384763988,ADM2,polygon representative point; not district-wide average
+Tehri Garhwal,30.462,78.486412,76128533B61134942989820,ADM2,polygon representative point; not district-wide average
+Bageshwar,29.98987,79.77472,76128533B64217423710469,ADM2,polygon representative point; not district-wide average
+Pithoragarh,30.125125,80.481721,76128533B38561771925520,ADM2,polygon representative point; not district-wide average
+Chamoli,30.501265,79.619756,76128533B69844709752120,ADM2,polygon representative point; not district-wide average
+Udham Singh Nagar,29.041225,79.437865,76128533B46531174070538,ADM2,polygon representative point; not district-wide average
+Kannur,11.9881,75.548055,76128533B41976979530466,ADM2,polygon representative point; not district-wide average
+Pathanamthitta,9.27811,76.973052,76128533B29330052395581,ADM2,polygon representative point; not district-wide average
+Alappuzha,9.50109,76.413558,76128533B86368264587575,ADM2,polygon representative point; not district-wide average
+Ernakulam,10.04483,76.500971,76128533B75519739609062,ADM2,polygon representative point; not district-wide average
+Kollam,8.967565,76.859679,76128533B61117593923933,ADM2,polygon representative point; not district-wide average
+Kasaragod,12.442305,75.188302,76128533B63366045987285,ADM2,polygon representative point; not district-wide average
+Idukki,9.814595,77.002296,76128533B35083559759016,ADM2,polygon representative point; not district-wide average
+Kozhikode,11.464145,75.895615,76128533B3985531353014,ADM2,polygon representative point; not district-wide average
+Kottayam,9.62901,76.64738,76128533B2576169508425,ADM2,polygon representative point; not district-wide average
+Thrissur,10.47898,76.273111,76128533B75696328527555,ADM2,polygon representative point; not district-wide average
+Palakkad,10.78711,76.475662,76128533B19581555782120,ADM2,polygon representative point; not district-wide average
+Thiruvananthapuram,8.57754,77.049344,76128533B33162455176756,ADM2,polygon representative point; not district-wide average
+Malappuram,11.10702,76.110753,76128533B83861010847920,ADM2,polygon representative point; not district-wide average
+Wayanad,11.71528,76.092996,76128533B82539771173603,ADM2,polygon representative point; not district-wide average
+Lakshadweep,11.16121,72.04501,76128533B41477629049356,ADM2,polygon representative point; not district-wide average
+North District,27.754595,88.520912,76128533B65820903826030,ADM2,polygon representative point; not district-wide average
+South District,27.3072,88.383434,76128533B10270619600482,ADM2,polygon representative point; not district-wide average
+West District,27.365085,88.188062,76128533B30151252629779,ADM2,polygon representative point; not district-wide average
+East District,27.27985,88.677562,76128533B67639510673366,ADM2,polygon representative point; not district-wide average
+Nadia,23.486705,88.558757,76128533B71390118115414,ADM2,polygon representative point; not district-wide average
+Dakshin Dinajpur,25.38436,88.509498,76128533B43049220506604,ADM2,polygon representative point; not district-wide average
+Murshidabad,24.28889,88.371759,76128533B51402332870635,ADM2,polygon representative point; not district-wide average
+Kolkata,22.56659,88.372638,76128533B72507508533064,ADM2,polygon representative point; not district-wide average
+Maldah,25.09803,88.110628,76128533B36734405131975,ADM2,polygon representative point; not district-wide average
+South Twenty Four Parganas,22.06449,88.622067,76128533B2860535426345,ADM2,polygon representative point; not district-wide average
+Darjiling,26.835745,88.31052,76128533B17109302371020,ADM2,polygon representative point; not district-wide average
+Jalpaiguri,26.651321,88.726666,76128533B99051523080987,ADM2,polygon representative point; not district-wide average
+Uttar Dinajpur,25.87023,87.970147,76128533B7157007143985,ADM2,polygon representative point; not district-wide average
+Purba Medinipur,22.0663,87.831734,76128533B25373378863054,ADM2,polygon representative point; not district-wide average
+Haora,22.493375,88.029278,76128533B22077262393417,ADM2,polygon representative point; not district-wide average
+North Twenty Four Parganas,22.716025,88.646567,76128533B93453964263910,ADM2,polygon representative point; not district-wide average
+Birbhum,24.06183,87.697175,76128533B53366745705922,ADM2,polygon representative point; not district-wide average
+Barddhaman,23.38994,87.909456,76128533B59121537940607,ADM2,polygon representative point; not district-wide average
+Bankura,23.133635,87.205839,76128533B20752885472650,ADM2,polygon representative point; not district-wide average
+Puruliya,23.20242,86.300337,76128533B16811573188243,ADM2,polygon representative point; not district-wide average
+Koch Bihar,26.25631,89.421607,76128533B64156747739715,ADM2,polygon representative point; not district-wide average
+Paschim Medinipur,22.359483,87.412486,76128533B88812350838807,ADM2,polygon representative point; not district-wide average
+Hugli,22.913625,88.015942,76128533B81857725777974,ADM2,polygon representative point; not district-wide average
+Pathankot,32.30381,75.657647,76128533B19630094725383,ADM2,polygon representative point; not district-wide average
+Gurdaspur,31.90499,75.230569,76128533B51331331726928,ADM2,polygon representative point; not district-wide average
+Patiala,30.211875,76.341077,76128533B39368211148513,ADM2,polygon representative point; not district-wide average
+Tarn Taran,31.326395,74.841571,76128533B54652028494758,ADM2,polygon representative point; not district-wide average
+Kapurthala,31.38535,75.345131,76128533B37199077904074,ADM2,polygon representative point; not district-wide average
+Fatehgarh Sahib,30.656865,76.381463,76128533B99919205026025,ADM2,polygon representative point; not district-wide average
+Sangrur,30.2112,75.82247,76128533B82601690264832,ADM2,polygon representative point; not district-wide average
+Mansa,29.875905,75.489645,76128533B41499938690181,ADM2,polygon representative point; not district-wide average
+Amritsar,31.768525,74.833668,76128533B8426545955058,ADM2,polygon representative point; not district-wide average
+Faridkot,30.599425,74.796858,76128533B13552746017223,ADM2,polygon representative point; not district-wide average
+Ludhiana,30.79058,75.83019,76128533B46195204843409,ADM2,polygon representative point; not district-wide average
+Bathinda,30.17722,75.049832,76128533B13791982054894,ADM2,polygon representative point; not district-wide average
+Jalandhar,31.29253,75.569565,76128533B91211372620495,ADM2,polygon representative point; not district-wide average
+Muktsar,30.2844,74.527604,76128533B50184713016881,ADM2,polygon representative point; not district-wide average
+Moga,30.79426,75.162363,76128533B18834172694083,ADM2,polygon representative point; not district-wide average
+Hoshiarpur,31.6056,75.861262,76128533B41747884279129,ADM2,polygon representative point; not district-wide average
+Rupnagar,31.09157,76.529027,76128533B24759700890118,ADM2,polygon representative point; not district-wide average
+Firozpur,30.94829,74.762837,76128533B421757708753,ADM2,polygon representative point; not district-wide average
+Fazilka,30.375455,74.108457,76128533B7291413308870,ADM2,polygon representative point; not district-wide average
+Barnala,30.370925,75.506487,76128533B39051871473194,ADM2,polygon representative point; not district-wide average
+Sahibzada Ajit Singh Nagar,30.647035,76.740743,76128533B12197302963241,ADM2,polygon representative point; not district-wide average
+Shahid Bhagat Singh Nagar,31.12667,76.163656,76128533B14984770113274,ADM2,polygon representative point; not district-wide average
+Mandya,12.63722,76.730133,76128533B43335986553000,ADM2,polygon representative point; not district-wide average
+Mysore,12.16623,76.49596,76128533B95879808095476,ADM2,polygon representative point; not district-wide average
+Chikkaballapura,13.603455,77.783389,76128533B80772392204057,ADM2,polygon representative point; not district-wide average
+Yadgir,16.574465,76.926541,76128533B84927972855096,ADM2,polygon representative point; not district-wide average
+Chikmagalur,13.428085,75.646839,76128533B15550697205080,ADM2,polygon representative point; not district-wide average
+Chitradurga,14.30575,76.53328,76128533B47594161132413,ADM2,polygon representative point; not district-wide average
+Haveri,14.71854,75.390902,76128533B86721175299079,ADM2,polygon representative point; not district-wide average
+Dakshina Kannada,12.82347,75.258013,76128533B54396396829952,ADM2,polygon representative point; not district-wide average
+Raichur,16.054385,76.903707,76128533B284680734793,ADM2,polygon representative point; not district-wide average
+Kolar,13.18002,78.255972,76128533B29292403538801,ADM2,polygon representative point; not district-wide average
+Bijapur,16.81534,75.88898,76128533B40495457052818,ADM2,polygon representative point; not district-wide average
+Uttara Kannada,14.7259,74.643537,76128533B79180273895456,ADM2,polygon representative point; not district-wide average
+Davanagere,14.36855,75.889249,76128533B49597693387243,ADM2,polygon representative point; not district-wide average
+Dharwad,15.37132,75.13488,76128533B75110579117636,ADM2,polygon representative point; not district-wide average
+Bidar,18.02044,77.256722,76128533B9794868259401,ADM2,polygon representative point; not district-wide average
+Chamarajanagar,11.948655,77.101404,76128533B16628456658675,ADM2,polygon representative point; not district-wide average
+Gulbarga,17.240885,76.770477,76128533B1083016608278,ADM2,polygon representative point; not district-wide average
+Gadag,15.417325,75.682922,76128533B33966968116377,ADM2,polygon representative point; not district-wide average
+Udupi,13.564065,74.883226,76128533B4839184447445,ADM2,polygon representative point; not district-wide average
+Bagalkot,16.29026,75.581659,76128533B83278580643229,ADM2,polygon representative point; not district-wide average
+Hassan,13.030695,76.174376,76128533B54775433755383,ADM2,polygon representative point; not district-wide average
+Shimoga,14.05924,75.122713,76128533B85389886560116,ADM2,polygon representative point; not district-wide average
+Bellary,15.19884,76.743747,76128533B92621859299479,ADM2,polygon representative point; not district-wide average
+Kodagu,12.38259,75.664182,76128533B57609583882472,ADM2,polygon representative point; not district-wide average
+Bangalore Rural,13.176835,77.33982,76128533B48075109668277,ADM2,polygon representative point; not district-wide average
+Tumkur,13.419795,76.882645,76128533B64905184636422,ADM2,polygon representative point; not district-wide average
+Belgaum,16.160715,74.889774,76128533B74319098136622,ADM2,polygon representative point; not district-wide average
+Koppal,15.573165,76.313208,76128533B79601545186231,ADM2,polygon representative point; not district-wide average
+Bangalore,12.94451,77.532483,76128533B76927648517269,ADM2,polygon representative point; not district-wide average
+Ramanagara,12.720835,77.32003,76128533B79600797037735,ADM2,polygon representative point; not district-wide average
+Washim,20.303635,77.24465,76128533B59866172845044,ADM2,polygon representative point; not district-wide average
+Ahmadnagar,19.16038,74.856647,76128533B47816398970283,ADM2,polygon representative point; not district-wide average
+Latur,18.353775,76.757467,76128533B98050240849249,ADM2,polygon representative point; not district-wide average
+Solapur,17.850945,75.275858,76128533B62490300334729,ADM2,polygon representative point; not district-wide average
+Nashik,20.2263,74.101488,76128533B50056157736049,ADM2,polygon representative point; not district-wide average
+Osmanabad,18.17099,76.119836,76128533B20474666262371,ADM2,polygon representative point; not district-wide average
+Sindhudurg,16.13364,73.65367,76128533B39238815774480,ADM2,polygon representative point; not district-wide average
+Kolhapur,16.46164,74.08983,76128533B66719908763317,ADM2,polygon representative point; not district-wide average
+Chandrapur,20.096285,79.507096,76128533B31342633028465,ADM2,polygon representative point; not district-wide average
+Akola,20.76227,77.191875,76128533B12380735325851,ADM2,polygon representative point; not district-wide average
+Parbhani,19.29047,76.627397,76128533B27609096170969,ADM2,polygon representative point; not district-wide average
+Yavatmal,20.064525,78.355984,76128533B61814103412294,ADM2,polygon representative point; not district-wide average
+Nanded,19.097025,77.484964,76128533B63783580004876,ADM2,polygon representative point; not district-wide average
+Dhule,21.13238,74.479879,76128533B25344721013980,ADM2,polygon representative point; not district-wide average
+Satara,17.63833,74.300563,76128533B93152786731267,ADM2,polygon representative point; not district-wide average
+Sangli,17.172545,74.774872,76128533B9892158671522,ADM2,polygon representative point; not district-wide average
+Hingoli,19.623175,77.193192,76128533B86424887513424,ADM2,polygon representative point; not district-wide average
+Pune,18.643675,73.922734,76128533B71380851181380,ADM2,polygon representative point; not district-wide average
+Gondiya,21.14445,80.269831,76128533B76286653784168,ADM2,polygon representative point; not district-wide average
+Amravati,21.154815,77.643627,76128533B63815467309300,ADM2,polygon representative point; not district-wide average
+Nandurbar,21.513335,74.544898,76128533B61304308285665,ADM2,polygon representative point; not district-wide average
+Ratnagiri,17.28252,73.473287,76128533B8575303957680,ADM2,polygon representative point; not district-wide average
+Wardha,20.82488,78.616463,76128533B37486272752374,ADM2,polygon representative point; not district-wide average
+Aurangabad,20.025405,75.157093,76128533B39329594544563,ADM2,polygon representative point; not district-wide average
+Buldana,20.564045,76.411479,76128533B70021405538438,ADM2,polygon representative point; not district-wide average
+Gadchiroli,19.75684,80.168246,76128533B36958871695926,ADM2,polygon representative point; not district-wide average
+Jalgaon,20.8424,75.529539,76128533B40156838070,ADM2,polygon representative point; not district-wide average
+Raigarh,18.49342,73.14223,76128533B99895802074414,ADM2,polygon representative point; not district-wide average
+Bhandara,21.121635,79.794081,76128533B14243635342908,ADM2,polygon representative point; not district-wide average
+Bid,18.991465,75.911169,76128533B5215906594478,ADM2,polygon representative point; not district-wide average
+Jalna,19.962285,75.828862,76128533B55603381222870,ADM2,polygon representative point; not district-wide average
+Thane,19.354375,73.369654,76128533B74859418903113,ADM2,polygon representative point; not district-wide average
+Palghar,19.757325,73.093531,76128533B37148244536449,ADM2,polygon representative point; not district-wide average
+Mumbai,18.971605,72.828968,76128533B16442413169750,ADM2,polygon representative point; not district-wide average
+Mumbai Suburban,19.129145,72.896001,76128533B67326016655833,ADM2,polygon representative point; not district-wide average
+Nagpur,21.15071,79.018297,76128533B3026318797185,ADM2,polygon representative point; not district-wide average
+Subarnapur,20.85388,83.851302,76128533B6884509901047,ADM2,polygon representative point; not district-wide average
+Puri,19.831265,85.656157,76128533B80656256583567,ADM2,polygon representative point; not district-wide average
+Anugul,21.103385,84.95731,76128533B60186573304899,ADM2,polygon representative point; not district-wide average
+Debagarh,21.437075,84.692673,76128533B64749652826710,ADM2,polygon representative point; not district-wide average
+Koraput,18.725835,82.610076,76128533B47448948912370,ADM2,polygon representative point; not district-wide average
+Nabarangapur,19.61298,82.298699,76128533B99037046327658,ADM2,polygon representative point; not district-wide average
+Bargarh,21.236215,83.568753,76128533B74482494441458,ADM2,polygon representative point; not district-wide average
+Jagatsinghapur,20.178805,86.342379,76128533B32949331695897,ADM2,polygon representative point; not district-wide average
+Kandhamal,20.135855,84.079406,76128533B8798165946807,ADM2,polygon representative point; not district-wide average
+Khordha,20.05555,85.50344,76128533B52802748445403,ADM2,polygon representative point; not district-wide average
+Mayurbhanj,21.91618,86.398459,76128533B34216851275023,ADM2,polygon representative point; not district-wide average
+Malkangiri,18.27558,81.956237,76128533B85917349021677,ADM2,polygon representative point; not district-wide average
+Baleshwar,21.51959,86.878794,76128533B81147724102706,ADM2,polygon representative point; not district-wide average
+Sambalpur,21.557105,84.158178,76128533B84129562351919,ADM2,polygon representative point; not district-wide average
+Gajapati,19.195015,84.196322,76128533B73854359719990,ADM2,polygon representative point; not district-wide average
+Dhenkanal,20.83604,85.625505,76128533B32509926596077,ADM2,polygon representative point; not district-wide average
+Nayagarh,20.240315,85.052151,76128533B77719785699048,ADM2,polygon representative point; not district-wide average
+Cuttack,20.366925,85.536284,76128533B70842759816811,ADM2,polygon representative point; not district-wide average
+Jajapur,20.870245,86.118831,76128533B91818883767147,ADM2,polygon representative point; not district-wide average
+Kalahandi,19.819615,83.042941,76128533B70759200975708,ADM2,polygon representative point; not district-wide average
+Baudh,20.64429,84.001898,76128533B84772375641700,ADM2,polygon representative point; not district-wide average
+Kendrapara,20.551825,86.535102,76128533B98951704707517,ADM2,polygon representative point; not district-wide average
+Kendujhar,21.58847,85.670777,76128533B59504628511334,ADM2,polygon representative point; not district-wide average
+Ganjam,19.609995,84.707803,76128533B633842538351,ADM2,polygon representative point; not district-wide average
+Sundargarh,22.060475,83.933459,76128533B6128685860104,ADM2,polygon representative point; not district-wide average
+Bhadrak,20.98554,86.595252,76128533B58797478961083,ADM2,polygon representative point; not district-wide average
+Nuapada,20.541375,82.530328,76128533B33451850475260,ADM2,polygon representative point; not district-wide average
+Jharsuguda,21.802045,84.017784,76128533B93240759409313,ADM2,polygon representative point; not district-wide average
+Rayagada,19.441735,83.587991,76128533B50498617372937,ADM2,polygon representative point; not district-wide average
+Balangir,20.609175,83.169403,76128533B44395557448920,ADM2,polygon representative point; not district-wide average
+Jhunjhunun,28.079905,75.54618,76128533B86135761305702,ADM2,polygon representative point; not district-wide average
+Jaisalmer,27.030025,70.786607,76128533B14849085202492,ADM2,polygon representative point; not district-wide average
+Sikar,27.662085,75.030898,76128533B20732636837048,ADM2,polygon representative point; not district-wide average
+Hanumangarh,29.364325,74.212302,76128533B92044109913630,ADM2,polygon representative point; not district-wide average
+Nagaur,27.05863,74.207644,76128533B43544960343942,ADM2,polygon representative point; not district-wide average
+Barmer,25.58198,71.620692,76128533B75922461866405,ADM2,polygon representative point; not district-wide average
+Ganganagar,29.454145,73.543184,76128533B72079972234594,ADM2,polygon representative point; not district-wide average
+Jodhpur,26.738775,72.873623,76128533B84094142280102,ADM2,polygon representative point; not district-wide average
+Churu,28.20491,74.690371,76128533B66825707357376,ADM2,polygon representative point; not district-wide average
+Bikaner,28.11892,73.112332,76128533B55039756001726,ADM2,polygon representative point; not district-wide average
+Pratapgarh,24.02469,74.671925,76128533B50613523798301,ADM2,polygon representative point; not district-wide average
+Bhilwara,25.48886,74.7034,76128533B93441663686573,ADM2,polygon representative point; not district-wide average
+Tonk,26.11989,75.665964,76128533B54301724756864,ADM2,polygon representative point; not district-wide average
+Bundi,25.44012,75.750765,76128533B69412164931619,ADM2,polygon representative point; not district-wide average
+Jaipur,27.15025,75.754954,76128533B28755611410447,ADM2,polygon representative point; not district-wide average
+Kota,25.191165,76.014286,76128533B74447895476194,ADM2,polygon representative point; not district-wide average
+Pali,25.60916,73.415516,76128533B9783509419210,ADM2,polygon representative point; not district-wide average
+Rajsamand,25.379415,73.861174,76128533B11082155919544,ADM2,polygon representative point; not district-wide average
+Ajmer,26.328265,74.717686,76128533B60180372390230,ADM2,polygon representative point; not district-wide average
+Bharatpur,27.26388,77.372044,76128533B25576352747885,ADM2,polygon representative point; not district-wide average
+Dungarpur,23.67691,73.819496,76128533B12079567451207,ADM2,polygon representative point; not district-wide average
+Chittaurgarh,24.719855,74.479268,76128533B58527154065354,ADM2,polygon representative point; not district-wide average
+Udaipur,24.46256,73.656023,76128533B37392223136185,ADM2,polygon representative point; not district-wide average
+Jalor,25.20814,72.315702,76128533B59459156188335,ADM2,polygon representative point; not district-wide average
+Dausa,26.8049,76.457395,76128533B73809971322123,ADM2,polygon representative point; not district-wide average
+Sirohi,24.805485,72.828893,76128533B49867917697487,ADM2,polygon representative point; not district-wide average
+Ariyalur,11.151195,79.261972,76128533B16889790752134,ADM2,polygon representative point; not district-wide average
+Sivaganga,9.96453,78.722076,76128533B89925537847414,ADM2,polygon representative point; not district-wide average
+Thanjavur,10.66186,79.192993,76128533B54279577656282,ADM2,polygon representative point; not district-wide average
+Tiruvannamalai,12.426855,79.002002,76128533B89575258858457,ADM2,polygon representative point; not district-wide average
+Ramanathapuram,9.521395,78.520401,76128533B1629699732681,ADM2,polygon representative point; not district-wide average
+Tirunelveli,8.552615,77.580274,76128533B52639434516056,ADM2,polygon representative point; not district-wide average
+Virudhunagar,9.492845,77.866302,76128533B70974512658911,ADM2,polygon representative point; not district-wide average
+Thiruvarur,10.64487,79.520215,76128533B45072089356239,ADM2,polygon representative point; not district-wide average
+Thiruvallur,13.255495,80.056616,76128533B45592431373253,ADM2,polygon representative point; not district-wide average
+Tiruchirappalli,10.849575,78.724615,76128533B1645877589145,ADM2,polygon representative point; not district-wide average
+Tiruppur,10.79093,77.534899,76128533B57036825942975,ADM2,polygon representative point; not district-wide average
+Theni,9.867635,77.424735,76128533B79135514077232,ADM2,polygon representative point; not district-wide average
+Salem,11.645885,78.211394,76128533B52590639744160,ADM2,polygon representative point; not district-wide average
+Madurai,9.93302,78.008329,76128533B71824979235503,ADM2,polygon representative point; not district-wide average
+Perambalur,11.28922,78.931742,76128533B51799781997546,ADM2,polygon representative point; not district-wide average
+Dindigul,10.42697,77.816901,76128533B28879432621383,ADM2,polygon representative point; not district-wide average
+Karur,10.822055,78.383817,76128533B19335918192159,ADM2,polygon representative point; not district-wide average
+Dharmapuri,12.161995,78.128675,76128533B4743808419896,ADM2,polygon representative point; not district-wide average
+Namakkal,11.30358,78.120336,76128533B51372664315362,ADM2,polygon representative point; not district-wide average
+Moradabad,28.887055,78.791976,76128533B51849218363622,ADM2,polygon representative point; not district-wide average
+Sambhal,28.425785,78.552592,76128533B7545062765383,ADM2,polygon representative point; not district-wide average
+Budaun,28.067915,79.037086,76128533B84679668760735,ADM2,polygon representative point; not district-wide average
+Kanshiram Nagar,27.796635,78.821669,76128533B7643504807381,ADM2,polygon representative point; not district-wide average
+Bahraich,27.735445,81.474453,76128533B66612397499770,ADM2,polygon representative point; not district-wide average
+Hapur,28.70548,77.912803,76128533B87317961648652,ADM2,polygon representative point; not district-wide average
+Sitapur,27.50299,80.834999,76128533B8998698404381,ADM2,polygon representative point; not district-wide average
+Samli,29.474575,77.284875,76128533B35465481868600,ADM2,polygon representative point; not district-wide average
+Shrawasti,27.67815,81.88801,76128533B34832354589031,ADM2,polygon representative point; not district-wide average
+Meerut,28.999135,77.780033,76128533B61760400952464,ADM2,polygon representative point; not district-wide average
+Aligarh,27.87332,78.13988,76128533B60862799554879,ADM2,polygon representative point; not district-wide average
+Bulandshahr,28.359855,77.966284,76128533B13272482176343,ADM2,polygon representative point; not district-wide average
+Bijnor,29.40979,78.4961,76128533B14534161138054,ADM2,polygon representative point; not district-wide average
+Baghpat,29.036595,77.309445,76128533B46268976217915,ADM2,polygon representative point; not district-wide average
+Kheri,28.181975,80.717221,76128533B76479861129777,ADM2,polygon representative point; not district-wide average
+Rampur,28.77834,79.191182,76128533B46682008877369,ADM2,polygon representative point; not district-wide average
+Bareilly,28.46217,79.40994,76128533B68554447699730,ADM2,polygon representative point; not district-wide average
+Mathura,27.600175,77.591416,76128533B88758450653156,ADM2,polygon representative point; not district-wide average
+Etah,27.545765,78.772321,76128533B15342706434354,ADM2,polygon representative point; not district-wide average
+Hardoi,27.337405,80.100451,76128533B25208535254310,ADM2,polygon representative point; not district-wide average
+Balrampur,27.448735,82.402638,76128533B87371000929659,ADM2,polygon representative point; not district-wide average
+Mahamaya Nagar,27.546715,78.084824,76128533B8878807356913,ADM2,polygon representative point; not district-wide average
+Shahjahanpur,27.91977,79.7471,76128533B96870418529164,ADM2,polygon representative point; not district-wide average
+Farrukhabad,27.436745,79.497977,76128533B59596968713717,ADM2,polygon representative point; not district-wide average
+Kannauj,26.99549,79.693789,76128533B80966996849325,ADM2,polygon representative point; not district-wide average
+Pilibhit,28.49983,80.09025,76128533B90071703601852,ADM2,polygon representative point; not district-wide average
+Mainpuri,27.214125,79.052978,76128533B84772439394056,ADM2,polygon representative point; not district-wide average
+Jyotiba Phule Nagar,28.743225,78.280394,76128533B21119051307760,ADM2,polygon representative point; not district-wide average
+Firozabad,27.193955,78.487794,76128533B91640519747726,ADM2,polygon representative point; not district-wide average
+Sultanpur,26.241755,82.293231,76128533B1996088953603,ADM2,polygon representative point; not district-wide average
+Chitrakoot,25.214675,81.15872,76128533B53725063754801,ADM2,polygon representative point; not district-wide average
+Basti,26.84001,82.523632,76128533B18648944871057,ADM2,polygon representative point; not district-wide average
+Gorakhpur,26.67921,83.370256,76128533B40226077866964,ADM2,polygon representative point; not district-wide average
+Lucknow,26.83094,80.918066,76128533B49436035281620,ADM2,polygon representative point; not district-wide average
+Azamgarh,26.031695,83.031981,76128533B73925919155567,ADM2,polygon representative point; not district-wide average
+Faizabad,26.638095,82.042526,76128533B60320291189162,ADM2,polygon representative point; not district-wide average
+Ambedkar Nagar,26.4062,82.568635,76128533B7879459377699,ADM2,polygon representative point; not district-wide average
+Ballia,25.8748,84.128205,76128533B73769926250842,ADM2,polygon representative point; not district-wide average
+Kanpur Nagar,26.43921,80.2743,76128533B23710487943819,ADM2,polygon representative point; not district-wide average
+Sant Ravidas Nagar (Bhadohi),25.358295,82.502706,76128533B87515288456202,ADM2,polygon representative point; not district-wide average
+Siddharthnagar,27.261215,82.849995,76128533B40509297062120,ADM2,polygon representative point; not district-wide average
+Auraiya,26.656235,79.516043,76128533B20660206691661,ADM2,polygon representative point; not district-wide average
+Sant Kabir Nagar,26.757965,83.024899,76128533B54279951806726,ADM2,polygon representative point; not district-wide average
+Kaushambi,25.538545,81.45772,76128533B98420041301261,ADM2,polygon representative point; not district-wide average
+Jalaun,26.10632,79.387048,76128533B15835290978888,ADM2,polygon representative point; not district-wide average
+Varanasi,25.376275,82.946595,76128533B7622369120497,ADM2,polygon representative point; not district-wide average
+Pratapgarh,25.873135,81.833688,76128533B20647769792365,ADM2,polygon representative point; not district-wide average
+Hamirpur,25.81417,79.866791,76128533B27201270098470,ADM2,polygon representative point; not district-wide average
+Gonda,27.11036,81.927166,76128533B67530641452031,ADM2,polygon representative point; not district-wide average
+Kanpur Dehat,26.4583,79.865842,76128533B80299348876357,ADM2,polygon representative point; not district-wide average
+Jaunpur,25.794575,82.488691,76128533B64732849735713,ADM2,polygon representative point; not district-wide average
+Bara Banki,26.93992,81.383799,76128533B74938989340684,ADM2,polygon representative point; not district-wide average
+Mahoba,25.35265,79.699932,76128533B11083100419963,ADM2,polygon representative point; not district-wide average
+Mahrajganj,27.18006,83.491151,76128533B29554440319099,ADM2,polygon representative point; not district-wide average
+Mirzapur,24.931985,82.635936,76128533B18243475101734,ADM2,polygon representative point; not district-wide average
+Kushinagar,26.92247,83.83388,76128533B26931973511551,ADM2,polygon representative point; not district-wide average
+Deoria,26.42445,83.764407,76128533B40023971667984,ADM2,polygon representative point; not district-wide average
+Unnao,26.573345,80.616133,76128533B42623703243160,ADM2,polygon representative point; not district-wide average
+Fatehpur,25.83347,80.915562,76128533B7124697440629,ADM2,polygon representative point; not district-wide average
+Mau,26.03743,83.515797,76128533B88623139855224,ADM2,polygon representative point; not district-wide average
+Rae Bareli,26.20757,81.134677,76128533B74057284038879,ADM2,polygon representative point; not district-wide average
+Amethi,26.345185,81.63781,76128533B13908294104682,ADM2,polygon representative point; not district-wide average
+Ghaziabad,28.76888,77.464681,76128533B68984344044805,ADM2,polygon representative point; not district-wide average
+Muzaffarnagar,29.445835,77.74584,76128533B87051210355251,ADM2,polygon representative point; not district-wide average
+Gautam Buddha Nagar,28.357595,77.570623,76128533B34462889864078,ADM2,polygon representative point; not district-wide average
+Saharanpur,29.98165,77.504609,76128533B33437990510331,ADM2,polygon representative point; not district-wide average
+Etawah,26.71608,79.085002,76128533B79784438258239,ADM2,polygon representative point; not district-wide average
+Agra,27.074995,77.891607,76128533B26296891809198,ADM2,polygon representative point; not district-wide average
+Cuddalore,11.517785,79.340265,76128533B61321395333865,ADM2,polygon representative point; not district-wide average
+Pudukkottai,10.290225,78.814473,76128533B64003397477352,ADM2,polygon representative point; not district-wide average
+Vellore,12.863464,79.04853,76128533B89374164863010,ADM2,polygon representative point; not district-wide average
+Chennai,13.05795,80.235764,76128533B89024397489955,ADM2,polygon representative point; not district-wide average
+Nagapattinam,10.604075,79.762546,76128533B88466433485589,ADM2,polygon representative point; not district-wide average
+Viluppuram,12.1153,79.595544,76128533B86430586962522,ADM2,polygon representative point; not district-wide average
+Kancheepuram,12.629697,80.063787,76128533B83644689337946,ADM2,polygon representative point; not district-wide average
+Kanniyakumari,8.328995,77.367186,76128533B53796141759805,ADM2,polygon representative point; not district-wide average
+Thoothukkudi,8.84724,77.993884,76128533B31241181851990,ADM2,polygon representative point; not district-wide average
+Allahabad,25.27872,81.903616,76128533B51368558457506,ADM2,polygon representative point; not district-wide average
+Chandauli,25.12299,83.247926,76128533B13673614951516,ADM2,polygon representative point; not district-wide average
+Jhansi,25.527405,78.652436,76128533B66072086060089,ADM2,polygon representative point; not district-wide average
+Banda,25.440825,80.521182,76128533B45099378029175,ADM2,polygon representative point; not district-wide average
+Sonbhadra,24.39798,83.079455,76128533B52058654769647,ADM2,polygon representative point; not district-wide average
+Lalitpur,24.699055,78.518823,76128533B59256192226816,ADM2,polygon representative point; not district-wide average
+Ghazipur,25.600325,83.510085,76128533B49460554954204,ADM2,polygon representative point; not district-wide average
+Krishnagiri,12.513125,78.237304,76128533B35717069663408,ADM2,polygon representative point; not district-wide average
+Erode,11.487895,77.349048,76128533B15337568968545,ADM2,polygon representative point; not district-wide average
+Coimbatore,10.812365,77.079106,76128533B4753404177348,ADM2,polygon representative point; not district-wide average
+The Nilgiris,11.42778,76.696699,76128533B21812274124310,ADM2,polygon representative point; not district-wide average
+Jhalawar,24.31467,76.529119,76128533B91943656836526,ADM2,polygon representative point; not district-wide average
+Alwar,27.638705,76.616561,76128533B5628791558965,ADM2,polygon representative point; not district-wide average
+Baran,24.91856,76.692926,76128533B98308664713511,ADM2,polygon representative point; not district-wide average
+Dhaulpur,26.654065,77.636195,76128533B64898456093948,ADM2,polygon representative point; not district-wide average
+Sawai Madhopur,26.203705,76.304991,76128533B28138828116492,ADM2,polygon representative point; not district-wide average
+Banswara,23.492845,74.354375,76128533B96584288929219,ADM2,polygon representative point; not district-wide average
+Karauli,26.50008,77.089042,76128533B34069028331411,ADM2,polygon representative point; not district-wide average
+Jangaon,17.828246,79.211216,76128533B8930157583904,ADM2,polygon representative point; not district-wide average
+Bhadradri,17.913015,80.642975,76128533B30246762498957,ADM2,polygon representative point; not district-wide average
+Hydrabad,17.414345,78.46721,76128533B84676164211579,ADM2,polygon representative point; not district-wide average
+Mancherial,18.987965,79.519183,76128533B53018054761164,ADM2,polygon representative point; not district-wide average
+Karimnagar,18.406616,79.213435,76128533B58104976570569,ADM2,polygon representative point; not district-wide average
+Nizamabad,18.713305,78.2241,76128533B58493775523243,ADM2,polygon representative point; not district-wide average
+Medak,17.949551,78.160745,76128533B97126567441665,ADM2,polygon representative point; not district-wide average
+Rangareddy,17.13841,78.404884,76128533B31175522938788,ADM2,polygon representative point; not district-wide average
+Nalgonda,16.86594,79.225646,76128533B8892495882090,ADM2,polygon representative point; not district-wide average
+Nagarkurnool,16.4156,78.683949,76128533B31246189674263,ADM2,polygon representative point; not district-wide average
+Adilabad,19.534332,78.623814,76128533B38354309367879,ADM2,polygon representative point; not district-wide average
+Komaram Bheem,19.33477,79.421749,76128533B33226396095315,ADM2,polygon representative point; not district-wide average
+Nirmal,19.093865,78.373658,76128533B25280172436550,ADM2,polygon representative point; not district-wide average
+Kamareddy,18.31683,78.05781,76128533B21068662878849,ADM2,polygon representative point; not district-wide average
+Jagtial,18.808515,78.934586,76128533B67054925852429,ADM2,polygon representative point; not district-wide average
+Jayashankar,18.507818,79.962412,76128533B60322704115131,ADM2,polygon representative point; not district-wide average
+Peddapalli,18.62737,79.498341,76128533B53373614632193,ADM2,polygon representative point; not district-wide average
+Rajanna Sircilla,18.4347,78.767371,76128533B21485897206517,ADM2,polygon representative point; not district-wide average
+Sangareddy,17.855525,77.82728,76128533B40480360118262,ADM2,polygon representative point; not district-wide average
+Siddipet,18.036996,78.906325,76128533B31111781432113,ADM2,polygon representative point; not district-wide average
+Khammam,17.18878,80.396587,76128533B96571577519224,ADM2,polygon representative point; not district-wide average
+Mahabubabad,17.72899,80.059446,76128533B28290181894983,ADM2,polygon representative point; not district-wide average
+Warangal (R),17.927437,79.822333,76128533B63833971372360,ADM2,polygon representative point; not district-wide average
+Warangal (U),18.02838,79.532417,76128533B34824326075805,ADM2,polygon representative point; not district-wide average
+Suryapet,17.08205,79.798839,76128533B24594618908349,ADM2,polygon representative point; not district-wide average
+Yadadri Bhongiri,17.426135,79.090667,76128533B85157820615002,ADM2,polygon representative point; not district-wide average
+Medchal,17.52876,78.533253,76128533B71056110198347,ADM2,polygon representative point; not district-wide average
+Vikarabad,17.271015,77.738974,76128533B74887942950962,ADM2,polygon representative point; not district-wide average
+Jogulamba,16.086815,77.731889,76128533B72829420975835,ADM2,polygon representative point; not district-wide average
+Wanaparthy,16.273712,78.002717,76128533B49394025943542,ADM2,polygon representative point; not district-wide average
+Mahabubnagar,16.725142,78.058834,76128533B58170186574016,ADM2,polygon representative point; not district-wide average
+Tirap,27.017981,95.511445,76128533B99469070633974,ADM2,polygon representative point; not district-wide average
+Namsai,27.704106,96.024252,76128533B1875965515331,ADM2,polygon representative point; not district-wide average
+East Siang,28.020551,95.223837,76128533B53717296822608,ADM2,polygon representative point; not district-wide average
+Kra Daadi,27.96301,93.826087,76128533B12129983841645,ADM2,polygon representative point; not district-wide average
+Charaideo,27.058785,95.054134,76128533B89228414823983,ADM2,polygon representative point; not district-wide average
+Majuli,26.97337,94.282414,76128533B15157901669242,ADM2,polygon representative point; not district-wide average
+Biswanath,26.795382,93.427163,76128533B40714385808093,ADM2,polygon representative point; not district-wide average
+Hojai,25.960984,92.983676,76128533B70315194619807,ADM2,polygon representative point; not district-wide average
+Karbi Anglong West,25.851189,92.592411,76128533B57995625790051,ADM2,polygon representative point; not district-wide average
+South Salmara-Mankachar,25.775575,89.899395,76128533B20298037622173,ADM2,polygon representative point; not district-wide average
+Agar,23.933265,76.145822,76128533B29721759389119,ADM2,polygon representative point; not district-wide average
+Pherzawl,24.365453,93.262182,76128533B71254158898830,ADM2,polygon representative point; not district-wide average
+Noney,24.672302,93.485223,76128533B36594996191182,ADM2,polygon representative point; not district-wide average
+Tengnoupal,24.370323,94.268339,76128533B61831576863813,ADM2,polygon representative point; not district-wide average
+Kamjong,24.813275,94.396129,76128533B66815680293072,ADM2,polygon representative point; not district-wide average
+Senapati,25.389115,94.145733,76128533B95642877176862,ADM2,polygon representative point; not district-wide average
+Kakching,24.397915,93.885582,76128533B82279368215419,ADM2,polygon representative point; not district-wide average
+Jiribam,24.70643,93.109807,76128533B64881202564500,ADM2,polygon representative point; not district-wide average
+North West,28.74142,77.022142,76128533B71353370080255,ADM2,polygon representative point; not district-wide average
+New Delhi,28.567324,77.12659,76128533B58262202014972,ADM2,polygon representative point; not district-wide average
+East,28.625265,77.295355,76128533B72485933575946,ADM2,polygon representative point; not district-wide average
+South West,28.584465,76.960151,76128533B53136419849111,ADM2,polygon representative point; not district-wide average
+West,28.649827,77.066308,76128533B68379889579232,ADM2,polygon representative point; not district-wide average
+South,28.48186,77.185645,76128533B97089774514948,ADM2,polygon representative point; not district-wide average
+North ,28.783696,77.095122,76128533B45574198291616,ADM2,polygon representative point; not district-wide average
+North East,28.730859,77.2586,76128533B9976625304286,ADM2,polygon representative point; not district-wide average
+South East,28.548545,77.270958,76128533B1420136949169,ADM2,polygon representative point; not district-wide average
+Central,28.700819,77.220202,76128533B19832024635761,ADM2,polygon representative point; not district-wide average
+Shahdara,28.687953,77.295787,76128533B81419063387740,ADM2,polygon representative point; not district-wide average
+Alipurduar,26.63138,89.456789,76128533B23858286755005,ADM2,polygon representative point; not district-wide average
+Jhargram,22.331984,86.994244,76128533B24861976740713,ADM2,polygon representative point; not district-wide average
+Paschim Barddhaman,23.64329,87.158591,76128533B60845263086042,ADM2,polygon representative point; not district-wide average
+Kalimpong,27.027724,88.649315,76128533B78458325839103,ADM2,polygon representative point; not district-wide average
+Narayanpet,16.6878,77.616379,76128533B14968875277413,ADM2,polygon representative point; not district-wide average
+Mulugu,18.304482,80.203357,76128533B84398038505400,ADM2,polygon representative point; not district-wide average
+Niwari,25.30602,78.664712,76128533B38767180038480,ADM2,polygon representative point; not district-wide average
+Pakke Kessang,27.148325,93.084145,76128533B24017517661394,ADM2,polygon representative point; not district-wide average
+Kamle,27.73011,94.122331,76128533B19898496046456,ADM2,polygon representative point; not district-wide average
+Shi Yomi,28.679085,94.346909,76128533B46084756537322,ADM2,polygon representative point; not district-wide average
+Leparada,27.951438,94.713441,76128533B25448742967716,ADM2,polygon representative point; not district-wide average
+Lower Siang,27.73011,94.59438,76128533B49993259380917,ADM2,polygon representative point; not district-wide average
+Hnahthial,22.97395,93.012792,76128533B64903504311414,ADM2,polygon representative point; not district-wide average
+Saitual,23.868635,93.15489,76128533B62486414019241,ADM2,polygon representative point; not district-wide average
+Khawzawl,23.54597,93.140197,76128533B41321006511827,ADM2,polygon representative point; not district-wide average
+Tirupathur,12.58701,78.626461,76128533B11403491783632,ADM2,polygon representative point; not district-wide average
+Ranipet,12.918837,79.408744,76128533B22687502928564,ADM2,polygon representative point; not district-wide average
+Chengalputtu,12.794922,79.774285,76128533B88669134807148,ADM2,polygon representative point; not district-wide average
+Kallakurichi,11.785162,79.039033,76128533B19545859035458,ADM2,polygon representative point; not district-wide average
+Mayiladuthurai,11.188875,79.694269,76128533B63176236753619,ADM2,polygon representative point; not district-wide average
+Tenkasi,9.078795,77.477579,76128533B27604563137530,ADM2,polygon representative point; not district-wide average
+Gaurella Pendra Marwahi,22.82879,81.961135,76128533B38203190611533,ADM2,polygon representative point; not district-wide average
