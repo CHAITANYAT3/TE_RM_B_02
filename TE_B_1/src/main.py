@@ -1,4 +1,4 @@
-"""Version 1.2: compare transport modes and identify illustrative savings."""
+"""Version 1.3: compare transport modes with an ASCII visualization."""
 
 import csv
 import math
@@ -34,16 +34,25 @@ def compare_modes(distance_km, factors):
             for mode, factor in factors.items()}
 
 
+def make_bar_chart(comparison, width=30):
+    largest = max(comparison.values(), default=0)
+    lines = []
+    for mode, value in sorted(comparison.items()):
+        number_of_blocks = round((value / largest) * width) if largest else 0
+        lines.append(f"  {mode.title():8s} | {'#' * number_of_blocks:<30s} {value:.3f} kg")
+    return "\n".join(lines)
+
+
 def main():
     try:
         distance = float(input("Enter travel distance (km): "))
         comparison = compare_modes(distance, load_factors())
-        print("\nEstimated CO2 emissions per passenger:")
-        for mode, emission in sorted(comparison.items()):
-            print(f"  {mode.title():8s}: {emission:.3f} kg CO2")
+        print("\nCO2 emissions by transport (per passenger):")
+        print(make_bar_chart(comparison))
         lowest_mode = min(comparison, key=comparison.get)
         saving = comparison["car"] - comparison[lowest_mode]
-        print(f"Lowest example: {lowest_mode.title()} | {saving:.3f} kg less than car")
+        print(f"\nLowest example: {lowest_mode.title()}")
+        print(f"Difference versus car: {saving:.3f} kg CO2")
         print("Note: Factors are illustrative, not official measurements.")
     except (ValueError, KeyError, OSError) as error:
         print(f"Unable to calculate: {error}")
