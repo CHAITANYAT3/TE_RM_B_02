@@ -1,0 +1,35 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+*.log
+*.log.txt
+
+# Node.js
+node_modules/
+backend/node_modules/
+backend/package-lock.json
+
+# Secrets - DO NOT COMMIT
+backend/.env
+backend/firebase-service-account.json
+
+# Uploaded files
+backend/uploads/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+.vercel
+.env*
+android/app/google-services.json
+backend/database.sqlite
