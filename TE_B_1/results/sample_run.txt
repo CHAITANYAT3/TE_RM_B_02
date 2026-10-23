@@ -1,0 +1,10 @@
+Input: 10 km
+Enter travel distance (km): 
+CO2 emissions by transport (per passenger):
+  Bus      | #############                  0.820 kg
+  Car      | ############################## 1.920 kg
+  Train    | ######                         0.410 kg
+
+Lowest example: Train
+Difference versus car: 1.510 kg CO2
+Note: Factors are illustrative, not official measurements.
