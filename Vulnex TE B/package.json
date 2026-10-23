@@ -1,0 +1,15 @@
+{
+  "name": "vulnex",
+  "version": "1.0.0",
+  "description": "VULNEX - Real-time vulnerability scanner",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^28.0.0"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.10"
+  }
+}

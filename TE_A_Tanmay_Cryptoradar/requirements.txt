@@ -1,0 +1,14 @@
+# Python 3.10 - 3.12 recommended
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+scipy>=1.10
+xgboost>=2.1.4,<4
+shap>=0.48
+matplotlib>=3.7
+joblib>=1.3
+streamlit>=1.30
+reportlab>=4.0
+# used by the test-suite to read the generated PDF
+pypdf>=4.0
+pytest>=7.0

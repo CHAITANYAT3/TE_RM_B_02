@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>VULNEX</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <canvas id="matrix"></canvas>
+
+  <div class="app">
+    <header class="topbar">
+      <div class="logo">
+        <span class="prompt">$</span> VULNEX<span class="cursor">_</span>
+      </div>
+      <div class="topbar-right">
+        <button id="historyToggle" class="icon-btn" title="History">⧉ HISTORY</button>
+        <button id="liveToggle" class="icon-btn live-btn" title="Live Coding">⌨ LIVE CODING</button>
+        <div class="tagline">// see the breach before it happens</div>
+      </div>
+    </header>
+
+    <div id="statsBar" class="stats-bar hidden">
+      <span class="stat-item"><span class="stat-label">STATUS:</span> <span id="statStatus">idle</span></span>
+      <span class="stat-item"><span class="stat-label">FILE:</span> <span id="statFile">-</span></span>
+      <span class="stat-item"><span class="stat-label">PROGRESS:</span> <span id="statProgress">0/0</span></span>
+      <span class="stat-item"><span class="stat-label">FOUND:</span> <span id="statFound">0</span></span>
+    </div>
+
+    <main class="stage">
+      <section id="idle" class="panel">
+        <pre class="ascii">
+ ██▒   █▓ █    ██  ██▓     ███▄    █ ▓█████ ▒██   ██▒
+▓██░   █▒ ██  ▓██▒▓██▒     ██ ▀█   █ ▓█   ▀ ▒▒ █ █ ▒░
+ ▓██  █▒░▓██  ▒██▒▒██░    ▓██  ▀█ ██▒▒███   ░░  █   ░
+  ▒██ █░░▓▓█  ░██░▒██░    ▓██▒  ▐▌██▒▒▓█  ▄  ░ █ █ ▒ 
+   ▒▀█░  ▒▒█████▓ ░██████▒▒██░   ▓██░░▒████▒▒██▒ ▒██▒
+        </pre>
+        <p class="blurb">Drop your project. We scan it. You sleep better.</p>
+
+        <div class="input-options">
+          <button id="folderBtn" class="btn btn-option">📁 SELECT FOLDER</button>
+          <button id="zipBtn"    class="btn btn-option">📦 SELECT ZIP</button>
+          <button id="githubBtn" class="btn btn-option">🌐 GITHUB URL</button>
+        </div>
+      </section>
+
+      <!-- ============ LIVE CODING SCREEN ============ -->
+      <section id="live" class="panel hidden">
+        <div class="live-header">
+          <h2>⌨ LIVE CODING — REAL-TIME VULNERABILITY DETECTION</h2>
+          <div class="live-actions">
+            <button id="liveClearBtn" class="icon-btn">⟲ CLEAR</button>
+            <button id="liveExampleBtn" class="icon-btn">▤ LOAD EXAMPLE</button>
+          </div>
+        </div>
+
+        <div class="live-layout">
+          <!-- Editor pane -->
+          <div class="editor-pane">
+            <div class="editor-container">
+              <div id="lineNumbers" class="line-numbers"></div>
+              <div class="editor-wrapper">
+                <div id="highlightLayer" class="highlight-layer"></div>
+                <textarea
+                  id="liveEditor"
+                  class="live-editor"
+                  spellcheck="false"
+                  autocomplete="off"
+                  autocorrect="off"
+                  autocapitalize="off"
+                  placeholder="// Start typing code here...&#10;// Vulnerabilities will be highlighted as you type."
+                ></textarea>
+              </div>
+            </div>
+            <div class="editor-status">
+              <span id="editorStatus">Ready</span>
+              <span id="editorChars">0 chars</span>
+            </div>
+          </div>
+
+          <!-- Live analysis pane -->
+          <div class="analysis-pane">
+            <div class="live-score-block">
+              <div class="live-score-label">LIVE SCORE</div>
+              <div id="liveScore" class="live-score">100</div>
+              <div class="live-score-max">/ 100</div>
+              <div class="live-score-bar">
+                <div id="liveScoreFill" class="live-score-fill"></div>
+              </div>
+            </div>
+
+            <div class="live-sev-row">
+              <div class="live-sev critical">
+                <span id="liveCritCount">0</span>
+                <label>CRIT</label>
+              </div>
+              <div class="live-sev high">
+                <span id="liveHighCount">0</span>
+                <label>HIGH</label>
+              </div>
+              <div class="live-sev medium">
+                <span id="liveMedCount">0</span>
+                <label>MED</label>
+              </div>
+              <div class="live-sev low">
+                <span id="liveLowCount">0</span>
+                <label>LOW</label>
+              </div>
+            </div>
+
+            <div class="live-issues-header">
+              <span>LIVE ISSUES</span>
+              <span id="liveIssueCount">0 found</span>
+            </div>
+            <div id="liveIssueList" class="live-issue-list">
+              <div class="live-empty">
+                Start typing to see live vulnerabilities...
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="scanning" class="panel hidden">
+        <h2>▶ SCANNING IN PROGRESS</h2>
+        <div class="scan-grid">
+          <div class="scan-radar-wrap">
+            <svg id="scanRadar" viewBox="0 0 300 300">
+              <defs>
+                <radialGradient id="scanGlow" cx="50%" cy="50%" r="50%">
+                  <stop offset="0%" stop-color="#00ff41" stop-opacity="0.4"/>
+                  <stop offset="100%" stop-color="#00ff41" stop-opacity="0"/>
+                </radialGradient>
+              </defs>
+              <circle cx="150" cy="150" r="140" fill="none" stroke="#00aa2a" stroke-width="1"/>
+              <circle cx="150" cy="150" r="105" fill="none" stroke="#00aa2a" stroke-width="1" stroke-dasharray="2 4"/>
+              <circle cx="150" cy="150" r="70" fill="none" stroke="#00aa2a" stroke-width="1" stroke-dasharray="2 4"/>
+              <circle cx="150" cy="150" r="35" fill="none" stroke="#00aa2a" stroke-width="1" stroke-dasharray="2 4"/>
+              <line x1="10" y1="150" x2="290" y2="150" stroke="#00aa2a" stroke-width="1" stroke-dasharray="2 4"/>
+              <line x1="150" y1="10" x2="150" y2="290" stroke="#00aa2a" stroke-width="1" stroke-dasharray="2 4"/>
+              <g id="scanSweep">
+                <path d="M150,150 L150,20 A130,130 0 0,1 235,65 Z" fill="url(#scanGlow)"/>
+                <line x1="150" y1="150" x2="150" y2="20" stroke="#00ff41" stroke-width="2"/>
+              </g>
+            </svg>
+            <div class="radar-center-label">
+              <div id="radarPercent">0%</div>
+              <div class="radar-center-sub">SCAN</div>
+            </div>
+          </div>
+          <div class="scan-side">
+            <div class="progress-bar">
+              <div id="progressFill"></div>
+            </div>
+            <p id="progressText">Initializing...</p>
+            <pre id="scanLog" class="log"></pre>
+          </div>
+        </div>
+      </section>
+
+      <section id="results" class="panel hidden">
+        <div class="results-grid">
+          <div class="radar-wrap">
+            <svg id="threatRadar" viewBox="0 0 300 300">
+              <circle cx="150" cy="150" r="140" fill="none" stroke="#00aa2a" stroke-width="1"/>
+              <circle cx="150" cy="150" r="105" fill="none" stroke="#00aa2a" stroke-width="1" stroke-dasharray="2 4"/>
+              <circle cx="150" cy="150" r="70" fill="none" stroke="#00aa2a" stroke-width="1" stroke-dasharray="2 4"/>
+              <circle cx="150" cy="150" r="35" fill="none" stroke="#00aa2a" stroke-width="1" stroke-dasharray="2 4"/>
+              <line x1="10" y1="150" x2="290" y2="150" stroke="#00aa2a" stroke-width="1" stroke-dasharray="2 4"/>
+              <line x1="150" y1="10" x2="150" y2="290" stroke="#00aa2a" stroke-width="1" stroke-dasharray="2 4"/>
+              <circle id="radarCriticalArc" cx="150" cy="150" r="130" fill="none" stroke="#ff2b2b" stroke-width="10"
+                      stroke-dasharray="0 1000" transform="rotate(-90 150 150)" opacity="0.9"/>
+              <circle id="radarHighArc" cx="150" cy="150" r="118" fill="none" stroke="#ff8c00" stroke-width="8"
+                      stroke-dasharray="0 1000" transform="rotate(-90 150 150)" opacity="0.85"/>
+              <circle id="radarMediumArc" cx="150" cy="150" r="108" fill="none" stroke="#ffd700" stroke-width="6"
+                      stroke-dasharray="0 1000" transform="rotate(-90 150 150)" opacity="0.8"/>
+              <circle id="radarLowArc" cx="150" cy="150" r="100" fill="none" stroke="#00aa2a" stroke-width="4"
+                      stroke-dasharray="0 1000" transform="rotate(-90 150 150)" opacity="0.75"/>
+              <g id="threatDots"></g>
+            </svg>
+            <div class="radar-center-label">
+              <div id="radarScore">0</div>
+              <div class="radar-center-sub">SCORE</div>
+            </div>
+          </div>
+          <div class="score-card compact">
+            <div class="score-label">SECURITY SCORE</div>
+            <div id="scoreValue" class="score-value">0</div>
+            <div class="score-max">/ 100</div>
+          </div>
+        </div>
+
+        <div class="severity-grid">
+          <div class="sev critical"><span id="cCount">0</span><label>CRITICAL</label></div>
+          <div class="sev high"><span id="hCount">0</span><label>HIGH</label></div>
+          <div class="sev medium"><span id="mCount">0</span><label>MEDIUM</label></div>
+          <div class="sev low"><span id="lCount">0</span><label>LOW</label></div>
+        </div>
+
+        <div class="issues">
+          <h3>// ISSUES FOUND</h3>
+          <div id="issueList"></div>
+        </div>
+
+        <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+          <button id="rescanBtn" class="btn">⟲ SCAN ANOTHER PROJECT</button>
+          <button id="exportBtn" class="btn">↓ EXPORT REPORT</button>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- GitHub Modal -->
+  <div id="githubModal" class="github-modal hidden">
+    <div class="github-modal-content">
+      <div class="github-modal-header">
+        <span>🌐 SCAN A GITHUB REPOSITORY</span>
+        <button type="button" id="githubClose" class="icon-btn close-btn">✕</button>
+      </div>
+      <p class="github-hint">Paste a public GitHub repo URL. Example:</p>
+      <pre class="github-example">https://github.com/facebook/react</pre>
+      <input type="text" id="githubUrl" class="github-input"
+             placeholder="https://github.com/user/repo" autocomplete="off" spellcheck="false" />
+      <div id="githubError" class="github-error hidden"></div>
+      <div class="github-actions">
+        <button type="button" id="githubScan" class="btn btn-scan">▶ FETCH & SCAN</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- History Drawer -->
+  <div id="historyOverlay" class="history-overlay hidden"></div>
+
+  <aside id="historyDrawer" class="history-drawer hidden">
+    <div class="history-header">
+      <span class="history-title">// SCAN HISTORY</span>
+      <button type="button" id="historyClose" class="icon-btn close-btn">✕ CLOSE</button>
+    </div>
+    <div class="history-settings">
+      <label class="toggle-row">
+        <input type="checkbox" id="historyEnabledToggle" />
+        <span>Save future scans to history</span>
+      </label>
+      <div class="history-note">History is stored locally on this computer only.</div>
+    </div>
+    <div class="history-actions">
+      <button type="button" id="historyClear" class="history-action">CLEAR ALL</button>
+    </div>
+    <div id="historyList" class="history-list"></div>
+    <div id="historyEmpty" class="history-empty">
+      No scans yet.<br>Run your first scan to see it here.
+    </div>
+  </aside>
+
+  <script src="renderer.js"></script>
+</body>
+</html>

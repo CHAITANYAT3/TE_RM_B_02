@@ -1,0 +1,4 @@
+mode,kg_co2_per_passenger_km
+car,0.192
+bus,0.082
+train,0.041
